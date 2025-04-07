@@ -1,1 +1,1 @@
-# odin-recipes
+Making first step into theodin project
